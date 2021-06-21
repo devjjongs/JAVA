@@ -1,0 +1,12 @@
+package test;
+
+import javax.rmi.CORBA.Util;
+
+public class Q10 {
+
+	public static void main(String[] args) {
+		Util u = null;
+		System.out.println(u.findPi());
+		return 3.14;
+	}		
+}

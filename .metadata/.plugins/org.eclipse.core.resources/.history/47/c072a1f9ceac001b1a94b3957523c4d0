@@ -1,0 +1,11 @@
+package ch2_repractice;
+
+public class Q7 {
+
+	public static void main(String[] args) {
+//		char c[]= new char[10];		//	1
+		int n [] = {1, 2, 3, 4, 5};
+		System.out.println(n);
+	}
+
+}

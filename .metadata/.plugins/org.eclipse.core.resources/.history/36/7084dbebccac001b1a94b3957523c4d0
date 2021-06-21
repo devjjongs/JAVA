@@ -1,0 +1,11 @@
+package day04a;
+
+public class Q4 {
+	int sum = 0, i = 1;
+	while (true) {
+		if(i>50) break;
+		sum+=i;
+		i++;
+	}
+}
+

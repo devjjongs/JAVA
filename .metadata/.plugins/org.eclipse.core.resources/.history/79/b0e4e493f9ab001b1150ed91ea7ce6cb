@@ -1,0 +1,33 @@
+package practice;
+
+public class Song {
+	private static String title;
+	private static String artist;
+	private static String year;
+	private static String country;
+	
+	Song(String string, String country, String artist, String title){
+		this.year = string;
+		this.country = country;
+		this.artist = artist;
+		this.title = title;
+	}
+	
+	Song(){
+		this(null, null, null, null);
+	}
+	
+	void show() {
+		System.out.println("노래제목 : " + title);
+		System.out.println("가수 : " + artist);
+		System.out.println("발표 연도 : " + year);
+		System.out.println("가수 국적 : " + country);
+	}
+	
+	public static void main(String[] args) {
+		Song s = new Song( "1978", "스웨덴", "ABBA", "Dancing Queen");
+		
+		s.show(year + "년 " + country + "국적의 " + artist + "가 부른 " + title);
+	}
+
+}

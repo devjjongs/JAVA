@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;IOEx2.java&apos; to &apos;IOEx3.java&apos;&#x0A;- Original project: &apos;IO&apos;&#x0A;- Original element: &apos;IOEx2.java&apos;&#x0A;- Renamed element: &apos;IOEx3.java&apos;" description="Rename compilation unit &apos;IOEx2.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{IOEx2.java" name="IOEx3.java" references="false" stamp="1620869918332" version="1.0"/>
+</session>

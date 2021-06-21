@@ -1,0 +1,14 @@
+package test;
+
+public class MathTest {
+
+	public static void main(String[] args) {
+		double u;
+		System.out.println(u.findPi());
+	}
+}
+class Util{
+	public double findPi() {
+		return 3.14;
+	}
+}

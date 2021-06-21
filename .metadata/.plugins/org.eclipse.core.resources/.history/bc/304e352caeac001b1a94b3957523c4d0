@@ -1,0 +1,16 @@
+package day07;
+
+public class InitTest {
+	static int cv = 1;			//	인스턴스 변수
+	int iv = 1;					//	인스턴스 변수
+//	void method1() {
+	
+	static { cv = 2;}
+	{iv = 2;}
+//		int i = 0;
+//		int j = i;
+	
+	InitTest(){
+		iv = 3;
+	}
+}

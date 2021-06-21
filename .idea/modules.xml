@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/student2/BookManagementSystem/BookManagementSystem.iml" filepath="$PROJECT_DIR$/student2/BookManagementSystem/BookManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassStudy/ClassStudy.iml" filepath="$PROJECT_DIR$/ClassStudy/ClassStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01/ch01.iml" filepath="$PROJECT_DIR$/ch01/ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02.iml" filepath="$PROJECT_DIR$/ch02/ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03/ch03.iml" filepath="$PROJECT_DIR$/ch03/ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04/ch04.iml" filepath="$PROJECT_DIR$/ch04/ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05/ch05.iml" filepath="$PROJECT_DIR$/ch05/ch05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/ch06.iml" filepath="$PROJECT_DIR$/ch06/ch06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/ch07.iml" filepath="$PROJECT_DIR$/ch07/ch07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/ch08.iml" filepath="$PROJECT_DIR$/ch08/ch08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/ch09.iml" filepath="$PROJECT_DIR$/ch09/ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10/ch10.iml" filepath="$PROJECT_DIR$/ch10/ch10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11/ch11.iml" filepath="$PROJECT_DIR$/ch11/ch11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch12/ch12.iml" filepath="$PROJECT_DIR$/ch12/ch12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13/ch13.iml" filepath="$PROJECT_DIR$/ch13/ch13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14/ch14.iml" filepath="$PROJECT_DIR$/ch14/ch14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15/ch15.iml" filepath="$PROJECT_DIR$/ch15/ch15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16/ch16.iml" filepath="$PROJECT_DIR$/ch16/ch16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch1_practice/ch1_practice.iml" filepath="$PROJECT_DIR$/ch1_practice/ch1_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac01/chap02-prac01.iml" filepath="$PROJECT_DIR$/chap02-prac01/chap02-prac01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac02/chap02-prac02.iml" filepath="$PROJECT_DIR$/chap02-prac02/chap02-prac02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac03/chap02-prac03.iml" filepath="$PROJECT_DIR$/chap02-prac03/chap02-prac03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac04/chap02-prac04.iml" filepath="$PROJECT_DIR$/chap02-prac04/chap02-prac04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac05/chap02-prac05.iml" filepath="$PROJECT_DIR$/chap02-prac05/chap02-prac05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac06/chap02-prac06.iml" filepath="$PROJECT_DIR$/chap02-prac06/chap02-prac06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac07/chap02-prac07.iml" filepath="$PROJECT_DIR$/chap02-prac07/chap02-prac07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac08/chap02-prac08.iml" filepath="$PROJECT_DIR$/chap02-prac08/chap02-prac08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac09/chap02-prac09.iml" filepath="$PROJECT_DIR$/chap02-prac09/chap02-prac09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac10/chap02-prac10.iml" filepath="$PROJECT_DIR$/chap02-prac10/chap02-prac10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac11-1/chap02-prac11-1.iml" filepath="$PROJECT_DIR$/chap02-prac11-1/chap02-prac11-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac11-2/chap02-prac11-2.iml" filepath="$PROJECT_DIR$/chap02-prac11-2/chap02-prac11-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac12-1/chap02-prac12-1.iml" filepath="$PROJECT_DIR$/chap02-prac12-1/chap02-prac12-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-prac12-2/chap02-prac12-2.iml" filepath="$PROJECT_DIR$/chap02-prac12-2/chap02-prac12-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02_prac/chap02_prac.iml" filepath="$PROJECT_DIR$/chap02_prac/chap02_prac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02_practice/chap02_practice.iml" filepath="$PROJECT_DIR$/chap02_practice/chap02_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05/day05.iml" filepath="$PROJECT_DIR$/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05a/day05a.iml" filepath="$PROJECT_DIR$/day05a/day05a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/day06.iml" filepath="$PROJECT_DIR$/day06/day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07/day07.iml" filepath="$PROJECT_DIR$/day07/day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08/day08.iml" filepath="$PROJECT_DIR$/day08/day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09/day09.iml" filepath="$PROJECT_DIR$/day09/day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10/day10.iml" filepath="$PROJECT_DIR$/day10/day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11/day11.iml" filepath="$PROJECT_DIR$/day11/day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14_Event/day14_Event.iml" filepath="$PROJECT_DIR$/day14_Event/day14_Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14_Layout/day14_Layout.iml" filepath="$PROJECT_DIR$/day14_Layout/day14_Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14_Swingcomponent/day14_Swingcomponent.iml" filepath="$PROJECT_DIR$/day14_Swingcomponent/day14_Swingcomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15_Thread_MultiTasking/day15_Thread_MultiTasking.iml" filepath="$PROJECT_DIR$/day15_Thread_MultiTasking/day15_Thread_MultiTasking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16_Menu/day16_Menu.iml" filepath="$PROJECT_DIR$/day16_Menu/day16_Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17/day17.iml" filepath="$PROJECT_DIR$/day17/day17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javatest/javatest.iml" filepath="$PROJECT_DIR$/javatest/javatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membertest/membertest.iml" filepath="$PROJECT_DIR$/membertest/membertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practiceA/practiceA.iml" filepath="$PROJECT_DIR$/practiceA/practiceA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rentCar6/rentCar6.iml" filepath="$PROJECT_DIR$/rentCar6/rentCar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repractice/repractice.iml" filepath="$PROJECT_DIR$/repractice/repractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcoding/testcoding.iml" filepath="$PROJECT_DIR$/testcoding/testcoding.iml" />
+    </modules>
+  </component>
+</project>

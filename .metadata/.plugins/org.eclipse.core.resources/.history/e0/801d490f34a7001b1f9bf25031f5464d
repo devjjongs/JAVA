@@ -1,0 +1,23 @@
+package day02;
+
+import java.util.Scanner;
+
+public class Abcabc {
+
+	private static Scanner in;
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("i=");
+		int i=in.nextInt();
+		if(i %6 ==0)
+			System.out.println("6ÀÇ ¹è¼ö");
+		else if(i %3 ==0)
+			System.out.println("È¦¼ö");
+		
+		scanner.close();
+
+	}
+
+}

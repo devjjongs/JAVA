@@ -1,0 +1,15 @@
+package day02;
+
+public class Abcabc {
+
+	public static void main(String[] args) {
+		int i=7;
+		if(i %6 == 0 )
+			if(i %3 == 0)
+				System.out.println("6ÀÇ ¹è¼ö");
+		else
+			System.out.println("È¦¼ö");
+
+	}
+
+}

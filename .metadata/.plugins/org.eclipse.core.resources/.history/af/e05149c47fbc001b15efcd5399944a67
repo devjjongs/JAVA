@@ -1,0 +1,7 @@
+public class CharSequence {
+	public static void main(String[] args) {
+		show(new String("Hello"));
+		show(new String("Java"));
+		show(new String("World!!"));
+	}
+}

@@ -1,0 +1,18 @@
+package test;
+
+public class Q10 {
+
+	public static void main(String[] args) {
+		Util u = null;
+		System.out.println(extracted(u).findPi());
+	}
+
+	private static Util extracted(Util u) {
+		return u;
+	}
+}
+class Util{
+	public double findPi() {
+		return 3.14;
+	}
+}

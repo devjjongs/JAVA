@@ -1,0 +1,13 @@
+package day06;
+
+public class InitTest {
+	int x;			//	인스턴스 변수
+	int y = x;		//	인스턴스 변수
+	void method1() {
+		int i;
+		int j = i;
+	}
+	public static void main(String[] args) {
+		InitTest  i1 = new InitTest();
+	}
+}
